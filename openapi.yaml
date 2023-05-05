@@ -549,4 +549,5 @@ components:
           format: double
         Produkte:
           type: string
+          nullable: true
       description: Datenklasse zur Haltestelle Antwort
